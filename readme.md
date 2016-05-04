@@ -48,7 +48,7 @@ Website: [ImagineCup](https://www.imaginecup.com/)
 
 Website: [SJTU *NIX User Group](http://sjtug.org/)
 
-交大的*NIX User Group，不了解，但我们学院有人在吧，请补充~
+主要是交流*nix使用经验，以及各种开源技术。
 
 ### 东岳
 
